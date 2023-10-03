@@ -1,5 +1,4 @@
-# d1-sql
-Magic SQL Statement for Cloudflare D1
+# d1-sql - Magic SQL Template Literal for Cloudflare D1
 
 ```bash
 npm i d1-sql
